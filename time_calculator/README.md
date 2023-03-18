@@ -1,8 +1,8 @@
 # Time Calculator Assignment 
 
-Time Calculator assignment for [**FreeCodeCamp**][https://www.freecodecamp.org/]. The section below explains all of the steps required to complete this assignment.
+Time Calculator assignment for [**FreeCodeCamp**][freecodecamp-url]. The section below explains all of the steps required to complete this assignment.
 
-Full Documentation: [**Documentation**][https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app]
+Full Documentation: [**Documentation**][documentation-link]
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
 * a start time in the 12-hour clock format (ending in AM or PM) 
@@ -38,4 +38,8 @@ add_time("6:30 PM", "205:12")
 
 Do not import any Python libraries. Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.
 
-This is the boilerplate for the Time Calculator project. Instructions for building your project can be found at [**Template**][https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator]
+This is the boilerplate for the Time Calculator project. Instructions for building your project can be found at [**Template**][template]
+
+[freecodecamp-url]: https://www.freecodecamp.org/
+[documentation-link]: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
+[template]: https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
